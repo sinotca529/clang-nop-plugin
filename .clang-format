@@ -1,0 +1,10 @@
+BasedOnStyle: LLVM
+AlwaysBreakTemplateDeclarations: Yes
+QualifierAlignment: Custom
+QualifierOrder: ['inline', 'static', 'type', 'const']
+AllowShortIfStatementsOnASingleLine: AllIfsAndElse
+IndentCaseLabels: true
+AlignAfterOpenBracket: BlockIndent
+ConstructorInitializerIndentWidth: 2
+SpaceBeforeCpp11BracedList: true
+ContinuationIndentWidth: 2
